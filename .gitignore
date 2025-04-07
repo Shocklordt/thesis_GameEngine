@@ -13,4 +13,5 @@ build/
 *.exe
 *.dSYM/
 ols.json
-sublime_odin
+sublime_odin.sublime-project
+sublime_odin.sublime-workspace
